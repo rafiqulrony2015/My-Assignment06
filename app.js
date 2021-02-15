@@ -187,7 +187,7 @@ durationField.addEventListener('keypress', function (event) {
   }
 })
 
-//bonus
+//bonus//
 
 const toggleSpinner = () => {
   const spinner = document.getElementById('spinner');
